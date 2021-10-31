@@ -1,0 +1,16 @@
+.oberoi {
+    font-size: 60px;
+    color: red;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    text-align: center;
+    background-color: lightblue;
+    opacity: 0.5;
+}
+
+.gupta{
+    font-size: 50px;
+    color: green;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: right;
+    background-color: gold;
+}
